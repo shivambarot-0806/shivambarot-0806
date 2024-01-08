@@ -2,7 +2,7 @@
 - 👨‍💻 Computer Science Student
 - 🌟 Passionate about coding, problem-solving, and technology
 - 📚 Learning, growing, and exploring the world of algorithms and data structures
--💡 Building cool projects and contributing to open source
+- 💡 Building cool projects and contributing to open source
 - 🔍 Exploring the realms of AI, web development, and cybersecurity
 - 🚀 On a mission to make the digital world a better place, one line of code at a time
 - 📫 Let's connect and collaborate! Feel free to reach out for projects or questions.
